@@ -45,7 +45,7 @@ for important shortcuts you can press 'Super + Shift + /'.
 - **Nautilus file manager**: 'Super + G'
 
 - **Default browser**: 'Super + B'
-(u should config it manually in niri if its not brave)
+  (u should config it manually in niri if its not brave)
 
 - **Window size layout**: 'Super + R'
 
@@ -56,7 +56,7 @@ for important shortcuts you can press 'Super + Shift + /'.
 - **ShortCut list**: 'Super + Shift + /'
 
 
-### Also included
+## Also included
 
 Configs for fish, kitty, fastfetch and etc.
 
@@ -66,8 +66,8 @@ btw the keyrings don't unlock when u disable the greeter and use the lockscreen 
 ## Installation
 
 ```bash
-git clone 
-cd YakhMansDF
+git clone https://github.com/YakhMan/Minimal-Niri-Dot-Files.git
+cd Niri-DotFiles
 bash ./install.sh
 ```
 and thats it!
@@ -78,10 +78,11 @@ and thats it!
 
 - [Quickshell](https://quickshell.org/) — the toolkit that makes this whole shell possible
 
-- [Wallpick] (https://github.com/iamanuclearwarhead/wallpick) — the wallpaper manager
-
+- [Wallpick](https://github.com/iamanuclearwarhead/wallpick) — the wallpaper manager
+  
 - and my 17y.o system that is finally stable in arch lol
 
+- also i made this configuration with the help of DeepSeek (chinese ai chatbot)
 
 ## Preview:
 <p align="center">
