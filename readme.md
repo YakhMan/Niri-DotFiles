@@ -66,7 +66,7 @@ btw the keyrings don't unlock when u disable the greeter and use the lockscreen 
 ## Installation
 
 ```bash
-git clone https://github.com/YakhMan/Minimal-Niri-Dot-Files.git
+git clone https://github.com/YakhMan/Niri-DotFiles
 cd Niri-DotFiles
 bash ./install.sh
 ```
