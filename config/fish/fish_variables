@@ -1,0 +1,6 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export XCURSOR_SIZE:24
+SETUVAR --export XCURSOR_THEME:Bibata\x2dMaterial\x2dIce\x2dBlue
+SETUVAR fish_greeting:\x1d
+SETUVAR fish_user_paths:/home/parsa/\x2econfig/fish
