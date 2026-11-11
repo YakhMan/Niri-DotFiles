@@ -1,59 +1,59 @@
 ## YakhMan's niri-based DotFiles
 
-My custom Dot-files using quickshell and niri.
+My custom Dot-files using quickshell and niri. 
 
-*please read the whole readme file and the install script*
+*please read the whole readme file and the install script* 
 
 
-> ## 🔴 THIS ONLY WORKS ON ARCH BASED DISTROS 🔴
-> ### This setup is built for **Arch Linux AND Arch-based distros** and is **not** compatible with any other distros.
+> ## 🔴 THIS ONLY WORKS ON ARCH BASED DISTROS 🔴 
+> ### This setup is built for **Arch Linux AND Arch-based distros** and is **not** compatible with any  other distros.
 
-> ## ⚠️ Not beginner-friendly
+> ## ⚠️ Not beginner-friendly 
 > This is my personal config, shared with you, It can have bugs and unfinished bits, and I try as much as possible to add new features to this so i'll be happy to hear your ideas or solutions for this project :D.
 
 ## Features
 
-most of the things here are created in one single quickshell config so there isn't much to run seperately. 
+most of the things here are created in one single quickshell config so there isn't much to run separately. 
 
 
-for important shortcuts you can press 'Super + Shift + /'.
+for important shortcuts you can press `Super + Shift + /`.
 
 
-- **Bar**: including a fully custom app launcher, cpu & memory monitor widgets, workspaces show as small circules up to 10 visible circule at the same time, clock and date, a widget for connection info (dissapears after a preiod of inactivity)
+- **Bar**: including a fully custom app launcher, cpu & memory monitor widgets, workspaces show as small     circles up to 10 visible circles at the same time, clock and date, a widget for connection info            (disappears after a period of inactivity)
 
-- **Notifications**: nothing much just customised for looks
+- **Notifications**: nothing much just customized for looks
 
-- **Volume**: a tiny square with the ability to change the speaker volume with scrolling and a  custom panel including microphone and speaker volumes (also dissapears after a preiod of inactivity) 
+- **Volume**: a tiny square with the ability to change the speaker volume with scrolling and a  custom       panel including microphone and speaker volumes (also disappears after a period of inactivity)
 
 - **Lock screen**: blurred wallpaper with a clock at the center 
 
-- **Power menu** includin a minimal button for suspend, reboot, shut down and log-out options
+- **Power menu** including a minimal button for suspend, reboot, shut down and log-out options 
  
-- **task bar**: a little hidden island at the bottom of screen with selectable icons of opened apps
+- **task bar**: a little hidden island at the bottom of screen with opened app icons 
 
 - **wallpaper manager**: a wallpaper manager using wallpick (synced with blurred wallpaper of lockscreen) 
 
 
 ## Important shortcuts
 
-- **Exit niri**: 'Super + Shift + E'
+- **Exit niri**: `Super + Shift + E`
 
-- **Lock screen**: 'Super + L'
+- **Lock screen**: `Super + L`
 
-- **Kitty**: 'Super + T'
+- **Kitty**: `Super + T`
 
-- **Nautilus file manager**: 'Super + G'
+- **Nautilus file manager**: `Super + G`
 
-- **Default browser**: 'Super + B'
+- **Default browser**: `Super + B`
   (u should config it manually in niri if its not brave)
 
-- **Window size layout**: 'Super + R'
+- **Window size layout**: `Super + R`
 
-- **Closing an app**: 'Super + esc'
+- **Closing an app**: `Super + esc`
 
-- **Wallpaper manager**: 'F7'
+- **Wallpaper manager**: `F7`
 
-- **ShortCut list**: 'Super + Shift + /'
+- **ShortCuts list**: `Super + Shift + /`
 
 
 ## Also included
