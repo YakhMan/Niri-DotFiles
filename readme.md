@@ -1,4 +1,4 @@
-### YakhMan's niri-based DotFiles
+## YakhMan's niri-based DotFiles
 
 My custom Dot-files using quickshell and niri.
 
